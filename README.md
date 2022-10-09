@@ -1,0 +1,1 @@
+# pixel=> This project is made for the basic drawing based on pixel using golang language and fyne package. So there are 64 swatches which are used to store the used colors and the size of each file will be of 50 x 50 pixls. To run the file use "go run ./pixel" command.
